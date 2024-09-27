@@ -5,9 +5,9 @@ __metadata:
   version: 4
   cacheKey: 7
 
-"@apeswapfinance/apeswap-swap-v2-monorepo@workspace:.":
+"@apeswapfinance/apeswap-monorepo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@apeswapfinance/apeswap-swap-v2-monorepo@workspace:."
+  resolution: "@apeswapfinance/apeswap-monorepo@workspace:."
   languageName: unknown
   linkType: soft
 
@@ -100,7 +100,7 @@ __metadata:
     eslint-plugin-prettier: ^3.1.4
     mocha: ^8.2.1
     prettier: ^2.1.2
-    rollup: ^2.52.8
+    rollup: ^2.79.2
     rollup-plugin-dts: ^3.0.2
     tiny-invariant: ^1.1.0
     ts-node: ^10.0.0
@@ -11489,9 +11489,9 @@ fsevents@~2.1.1:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.52.8":
-  version: 2.52.8
-  resolution: "rollup@npm:2.52.8"
+"rollup@npm:^2.79.2":
+  version: 2.79.2
+  resolution: "rollup@npm:2.79.2"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -11499,7 +11499,7 @@ fsevents@~2.1.1:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: bd83d5c89a23bf59b639fa57316e402402606a896a9fd25e16f83d5004b57a36fb21321f5726406741b68a5fcf4768adaa53a8f6cfb9e39c8d11a7e6be2fdd3a
+  checksum: 5ff9854e0027a8fc7524b23ad34b630d11e1bb039ba0b1fd0e2d3117d6a1cf84b1f92b004e241727753adf1afccae4dba71e60caa5d9b1e202705fd89b71985f
   languageName: node
   linkType: hard
 
